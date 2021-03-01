@@ -1,0 +1,6 @@
+/config/
+/cat/
+*.a
+*.b
+.a files/
+*.txt
