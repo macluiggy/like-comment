@@ -1,0 +1,19 @@
+#container1 {
+    text-align: center;
+}
+
+#image {
+    width: 300px;
+    height: 300px;
+    border: solid;
+    border-radius: 5px;
+}
+
+img {
+    display: inl;
+}
+
+.interact{
+    border: solid 2px;
+    border-radius: 5px;
+}
