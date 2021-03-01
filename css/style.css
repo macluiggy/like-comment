@@ -2,6 +2,10 @@
     text-align: center;
 }
 
+#container2 {
+    text-align: center;
+}
+
 #image {
     width: 300px;
     height: 300px;
@@ -16,4 +20,13 @@ img {
 .interact{
     border: solid 2px;
     border-radius: 5px;
+}
+
+textarea {
+    width: 300px;
+    height: 100px;
+}
+
+#show-hide {
+    display: none;
 }
